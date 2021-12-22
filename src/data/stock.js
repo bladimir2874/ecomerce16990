@@ -1,0 +1,38 @@
+export const stock = [
+  {
+    id: 1,
+    name: "Producto 1",
+    description: "Lorem ipsum",
+    price: 1500,
+    img: "https://firebasestorage.googleapis.com/v0/b/ecomerce-bladimir-andrade.appspot.com/o/automovil.jpg?alt=media&token=749a16ce-5475-4aba-8135-08877cfb5fd5",
+    category: "automovil",
+    stock: 20,
+  },
+  {
+    id: 2,
+    name: "Producto 2",
+    description: "Lorem ipsum",
+    price: 2500,
+    img: "https://firebasestorage.googleapis.com/v0/b/ecomerce-bladimir-andrade.appspot.com/o/automoviles.jpg?alt=media&token=37c59772-cbe7-4f1e-9e24-1e0920303d9c",
+    category: "automovil",
+    stock: 20,
+  },
+  {
+    id: 3,
+    name: "Producto 3",
+    description: "Lorem ipsum",
+    price: 800,
+    img: "https://firebasestorage.googleapis.com/v0/b/ecomerce-bladimir-andrade.appspot.com/o/mercedes-amg-g63-1aa.jpg?alt=media&token=c64092cc-5649-4ff8-88a3-a25695190fcf",
+    category: "camionetas",
+    stock: 20,
+  },
+  {
+    id: 4,
+    name: "Producto 4",
+    description: "Lorem ipsum",
+    price: 6000,
+    img: "https://firebasestorage.googleapis.com/v0/b/ecomerce-bladimir-andrade.appspot.com/o/GMC-Sierra-3500hd-Denali.jpg?alt=media&token=e8d65cf3-7c02-4901-a981-9ce001500f4c",
+    category: "camionetas",
+    stock: 20,
+  },
+];
