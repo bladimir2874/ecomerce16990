@@ -30,9 +30,9 @@ Las principales tecnologías usadas son:
 
 ## Demo
 
-![Demo](https://ecomerce16990-zid8uxt61-bladimir.vercel.app/)
+![Demo]
 https://ecomerce16990-zid8uxt61-bladimir.vercel.app/
-ecomerce16990.vercel.app
+
 
 #   e c o m e r c e 1 6 9 9 0  
  
